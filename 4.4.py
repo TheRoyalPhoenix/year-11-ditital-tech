@@ -18,3 +18,6 @@ print (764%2)
 print (165//2)
 print (float (11.13+123))
 print (int(100+24.4))
+#str(55+65)The first line above will actually evaluate the mathematical equation and then convert it to a string of  character. So it will convert it to a string containing the value “150”. 
+#int(55.0) The second line will convert the float to an integer – 55.
+#float(44+10)The third line will convert the equation into a float, and become 54.0. 
